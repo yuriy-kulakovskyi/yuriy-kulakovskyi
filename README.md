@@ -33,7 +33,7 @@
   
   - :telescope: I’m studying in Creator IT Academy.
 
-  - :seedling: Exploring JavaScript. Prepearing to learn React.JS.
+  - :seedling: Exploring JavaScript. Preparing to learn React.JS.
 
   - :zap: In my free time, I read documentaries in the Internet.
 
