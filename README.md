@@ -31,7 +31,7 @@
   
   I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
   
-  - :telescope: I’m studying in Lviv Ploytechnic NAtional University.
+  - :telescope: I’m studying in Lviv Ploytechnic National University.
 
   - :seedling: Exploring Web.
 
