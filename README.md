@@ -31,9 +31,9 @@
   
   I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
   
-  - :telescope: I’m studying in Creator IT Academy.
+  - :telescope: I’m studying in Lviv Ploytechnic NAtional University.
 
-  - :seedling: Exploring the ReactJS.
+  - :seedling: Exploring Web.
 
   - :zap: In my free time, I read documentaries in the Internet.
 
@@ -53,6 +53,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="Clion" **alt="Clion" width="40" height="40"/>
 </div>
 
 ---
